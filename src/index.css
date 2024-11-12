@@ -16,3 +16,14 @@ body {
   color: var(--white);
   font-size: 2rem;
 }
+
+.container {
+  background-color: var(--white);
+  color: #000;
+  border-radius: 1rem;
+  text-align: center;
+  min-height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
